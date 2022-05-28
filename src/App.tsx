@@ -19,7 +19,7 @@ const App = () => {
       <hr />
       Seu nome é: {name}
       <br />
-      Sua idade é: {idade} anos
+      Você tem: {idade} anos
     </div>
   )
 }
